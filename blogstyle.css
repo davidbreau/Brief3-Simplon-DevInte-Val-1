@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+  body {
+    font-family: Arial, Tahoma, Serif;
+    color: #263238;
+    max-width: 1200px;
+    margin: 0 auto
+  }
+  
+  nav {
+    font-family: "Alegreya Sans", Bold;
+    padding-top: 50px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+  }
+  nav ul {
+    padding-top: 30px;
+    display: flex;
+    list-style: none;
+
+  }
+  nav ul li {
+    padding: 1em;
+  }
+
+  h1{
+    padding-top: 50px;
+    font-size: 50px;
+    color: #D05270;
+    font-family: "Cormorant Garamond", Bold600;
+
+  }
+
+  header {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  header p {
+    max-width: 605px;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  header ul {
+    max-width: 605px;
+    display: flex;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  header ul{
+
+    }
